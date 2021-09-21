@@ -1,0 +1,28 @@
+.statitem{
+  display: flex;
+  flex-direction: column;
+  width: 210px;
+  height: 110px;
+  background: rgb(152, 152, 240);
+  color:white;
+  background:url(https://energy.denistiaglin.com/assets/img/d/fon/1.png);
+  background-position: center;
+}
+.statitem__info{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-weight: bold;
+}
+.statitem__title{
+  font-size: 14px;
+}
+.statitem__number{
+  font-size: 30px;
+}
+.statitem__button{
+  background:rgba(0, 0, 0, 0.336);
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+}

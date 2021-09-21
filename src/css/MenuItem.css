@@ -1,0 +1,13 @@
+.menuitem{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  height: 50px;
+  width: 100%;
+  border: 1px solid white;
+}
+.navlink{
+  text-decoration: none;
+  color: white;
+}

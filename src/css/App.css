@@ -1,0 +1,21 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.title{
+  font-size: 20px;
+  font-weight: bold;
+  color:#4cc2d4;
+}
+
+.button{
+  margin-top: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background:#4e8dac;
+  border:none;
+  padding: 8px 40px;
+  color:#eeeeee;
+}

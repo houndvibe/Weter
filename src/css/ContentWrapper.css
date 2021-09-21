@@ -1,0 +1,9 @@
+.content-wrapper{
+  margin-top: 80px;
+  padding: 10px 40px;
+  width: 100%;
+  overflow: scroll;
+}
+.content{
+  margin-top: 20px;
+}

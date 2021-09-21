@@ -1,0 +1,13 @@
+.sharecard{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background: white;
+  border-top: 3px solid #4e8dac;
+  width: 180px;
+}
+
+.sharecard__extra{
+  font-size: 20px;
+  font-weight: bold;
+}

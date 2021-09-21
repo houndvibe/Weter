@@ -1,0 +1,9 @@
+@import '../assets/fonts/ProximaNova/stylesheet.css';
+
+body {
+  margin: 0;
+  font-family: 'Proxima Nova Cn Rg';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
